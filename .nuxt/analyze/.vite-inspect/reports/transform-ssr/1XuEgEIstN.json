@@ -1,0 +1,17 @@
+{
+  "resolvedId": "virtual:nuxt:/opt/lampp/htdocs/nuxt/nuxt-deploy/.nuxt/css.mjs",
+  "transforms": [
+    {
+      "name": "__load__",
+      "result": "",
+      "start": 1706104920347,
+      "end": 1706104920347
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1706104920347,
+      "end": 1706104920347,
+      "order": "normal"
+    }
+  ]
+}
