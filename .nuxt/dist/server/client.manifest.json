@@ -5,7 +5,7 @@
     "prefetch": true,
     "preload": true,
     "css": [],
-    "file": "error-404.-5MAePYr.js",
+    "file": "error-404.pokWTbPH.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -24,7 +24,7 @@
     "prefetch": true,
     "preload": true,
     "css": [],
-    "file": "error-500.0ETBOxdy.js",
+    "file": "error-500.uXGAOPl-.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -49,7 +49,7 @@
       "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
       "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
     ],
-    "file": "entry.joX7Pfv-.js",
+    "file": "entry.xgbn8Fkl.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js",
     "_globalCSS": true
