@@ -3980,7 +3980,7 @@ const appConfig = defuFn(inlineAppConfig);
 const _inlineRuntimeConfig = {
   "app": {
     "baseURL": "/",
-    "buildId": "d591e154-5cee-434f-9118-5c884eeb7ad0",
+    "buildId": "cbe77ff6-6e54-472d-990f-84ef214c655a",
     "buildAssetsDir": "/_nuxt/",
     "cdnURL": ""
   },
@@ -4765,7 +4765,7 @@ const storage = createStorage({});
 
 storage.mount('/assets', assets$1);
 
-storage.mount('data', unstorage_47drivers_47fs_45lite({"driver":"fsLite","base":"/opt/lampp/htdocs/iqbal/nuxt/nuxt-deploy/.data/kv"}));
+storage.mount('data', unstorage_47drivers_47fs_45lite({"driver":"fsLite","base":"J:\\laragon\\www\\vue\\nuxt\\nuxt-deploy\\.data\\kv"}));
 
 function useStorage(base = "") {
   return base ? prefixStorage(storage, base) : storage;
@@ -5269,72 +5269,72 @@ const assets = {
   "/favicon.ico": {
     "type": "image/vnd.microsoft.icon",
     "etag": "\"10be-n8egyE9tcb7sKGr/pYCaQ4uWqxI\"",
-    "mtime": "2024-10-03T16:01:45.783Z",
+    "mtime": "2024-08-01T18:33:35.440Z",
     "size": 4286,
     "path": "../public/favicon.ico"
   },
   "/robots.txt": {
     "type": "text/plain; charset=utf-8",
-    "etag": "\"1-rcg7GeeTSRscbqD9i0bNnzLlkvw\"",
-    "mtime": "2024-10-03T16:01:45.783Z",
-    "size": 1,
+    "etag": "\"2-uoq1oCgLlTqpdDX/iUbLy7J1Wic\"",
+    "mtime": "2024-10-03T17:20:24.267Z",
+    "size": 2,
     "path": "../public/robots.txt"
   },
   "/_nuxt/BHQlFJvE.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"241f-fahX7rNfgTQLbUTUz5MmKS1Qovw\"",
-    "mtime": "2024-10-03T16:01:45.767Z",
+    "mtime": "2024-10-03T17:28:54.674Z",
     "size": 9247,
     "path": "../public/_nuxt/BHQlFJvE.js"
   },
   "/_nuxt/CjuaTOV7.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"d3c-PSKCekrhjj4j7G5w8/avkg0hJSg\"",
-    "mtime": "2024-10-03T16:01:45.768Z",
+    "mtime": "2024-10-03T17:28:54.672Z",
     "size": 3388,
     "path": "../public/_nuxt/CjuaTOV7.js"
   },
   "/_nuxt/DlANLf8R.js": {
     "type": "text/javascript; charset=utf-8",
     "etag": "\"3593f-8eWGC0Fr+ZrZp9GFTiaiE3n2sfU\"",
-    "mtime": "2024-10-03T16:01:45.772Z",
+    "mtime": "2024-10-03T17:28:54.672Z",
     "size": 219455,
     "path": "../public/_nuxt/DlANLf8R.js"
   },
   "/_nuxt/entry.DHr-p19c.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"306b-I39EACcGKjrCc6d1w+kRWkttlm0\"",
-    "mtime": "2024-10-03T16:01:45.772Z",
+    "mtime": "2024-10-03T17:28:54.672Z",
     "size": 12395,
     "path": "../public/_nuxt/entry.DHr-p19c.css"
   },
   "/_nuxt/error-404.ygbHJO5Q.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"de4-4evKWTXkUTbWWn6byp5XsW9Tgo8\"",
-    "mtime": "2024-10-03T16:01:45.772Z",
+    "mtime": "2024-10-03T17:28:54.672Z",
     "size": 3556,
     "path": "../public/_nuxt/error-404.ygbHJO5Q.css"
   },
   "/_nuxt/error-500.B11Ibp8J.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"75c-tP5N9FT3eOu7fn6vCvyZRfUcniY\"",
-    "mtime": "2024-10-03T16:01:45.772Z",
+    "mtime": "2024-10-03T17:28:54.671Z",
     "size": 1884,
     "path": "../public/_nuxt/error-500.B11Ibp8J.css"
   },
   "/_nuxt/builds/latest.json": {
     "type": "application/json",
-    "etag": "\"47-hnucu4WWIt+QpylfmGvbBw0lfus\"",
-    "mtime": "2024-10-03T16:01:45.755Z",
+    "etag": "\"47-lKw1kTt0ZBO27SKJPB8vCU49PuY\"",
+    "mtime": "2024-10-03T17:28:56.215Z",
     "size": 71,
     "path": "../public/_nuxt/builds/latest.json"
   },
-  "/_nuxt/builds/meta/d591e154-5cee-434f-9118-5c884eeb7ad0.json": {
+  "/_nuxt/builds/meta/cbe77ff6-6e54-472d-990f-84ef214c655a.json": {
     "type": "application/json",
-    "etag": "\"8b-6vk0w2wd7IBHx6+k0Ul0oXxBFBc\"",
-    "mtime": "2024-10-03T16:01:45.746Z",
+    "etag": "\"8b-IzyeDHGWdQvSLl7TcgB+Zm8eRtc\"",
+    "mtime": "2024-10-03T17:28:56.217Z",
     "size": 139,
-    "path": "../public/_nuxt/builds/meta/d591e154-5cee-434f-9118-5c884eeb7ad0.json"
+    "path": "../public/_nuxt/builds/meta/cbe77ff6-6e54-472d-990f-84ef214c655a.json"
   }
 };
 
@@ -5531,12 +5531,12 @@ const _f4b49z = eventHandler((event) => {
   return readAsset(id);
 });
 
-const _lazy_pLvpJV = () => import('./routes/renderer.mjs').then(function (n) { return n.r; });
+const _lazy_6cnXiQ = () => import('./routes/renderer.mjs').then(function (n) { return n.r; });
 
 const handlers = [
   { route: '', handler: _f4b49z, lazy: false, middleware: true, method: undefined },
-  { route: '/__nuxt_error', handler: _lazy_pLvpJV, lazy: true, middleware: false, method: undefined },
-  { route: '/**', handler: _lazy_pLvpJV, lazy: true, middleware: false, method: undefined }
+  { route: '/__nuxt_error', handler: _lazy_6cnXiQ, lazy: true, middleware: false, method: undefined },
+  { route: '/**', handler: _lazy_6cnXiQ, lazy: true, middleware: false, method: undefined }
 ];
 
 function createNitroApp() {
